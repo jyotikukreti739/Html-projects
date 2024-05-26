@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jyoti Kukreti</title>
+    </head>
+    <body>
+        <h1>Jyoti Kukreti</h1>
+        <p>Software Developer, Educator at Geekster</p>
+        <p><a href = "https://www.linkedin.com/in/jyoti-kukreti"class="link">LinkedIn</a> |
+             <a href = "https://github.com/in/jyoti-kukreti"class="link">GitHub</a></p><hr>
+             <h2 class ="section-title">Experience</h2>
+             <h3>Software Developer at Amazon</h3>
+        <p> I work with Amazon in the transportation team, some more description Lorem ipsum dolor 
+            sit amet consectetur ac reprehenderit quisquam nam ab vitae totam id commodi laborum enim, 
+            sint ea odit quasi soluta! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident 
+            iusto ut praesentium modi. Incidunt atque</p><hr>
+    </div>
+    <div>
+        <h3>Educator at Geekster</h3></p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam et dolores expedita eos dicta quia.
+             Molestias nemo voluptate unde necessitatibus soluta molestiae ducimus nobis modi eos explicabo alias, illo ipsa natus blanditiis est!
+              Magni amet rerum suscipit magnam harum dolores facere obcaecati, id distinctio debitis ut dicta, dignissimos, corporis aliquam excepturi
+               nesciunt eligendi omnis dolor iste. Error quibusdam, nam minus, esse, voluptate eos architecto aspernatur similique iusto magni
+                praesentium. Magni est harum eaque, quas totam labore nihil autem tempore cumque hic pariatur.  Incidunt hic fuga, minima 
+                aut totam facilis, vero debitis quas necessitatibus error voluptates, libero commodi architecto consequuntur possimus.</p><hr>
+             <h2 class ="section-title">Skills</h2>
+             <ul>
+                <li>Java</li>
+                <li>JavaScript</li>
+                <li>Testing</li>
+                <li>API Designing</li>
+                <li>System Design</li>
+             </ul><hr>
+             <h2 class ="section-title">Hobbies</h2>
+             <ol>
+                <li>Table Tennis</li>
+                <li>Reading Books</li>
+                <li>Biography</li>
+                <li>Teaching</li>
+             </ol><hr>
+             <h2 class ="section-title">Projects</h2>
+                <h3>Project-1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut facilis eos explicabo quas iure praesentium rem libero ea excepturi dolores.
+                     ipsum dolor sit amet consectetur adipisicing elit. Nihil corporis nisi consequuntur, perspiciatis alias
+                      amet maiores magni voluptatum quit.</p>
+                <h3>Project-2</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut facilis eos explicabo quas iure praesentium rem libero ea excepturi dolores.
+                    ipsum dolor sit amet consectetur adipisicing elit. Nihil corporis nisi consequuntur, perspiciatis alias
+                    amet maiores magni voluptatum quit.</p><hr>
+                <h2 class ="section-title">Contact Details</h2> 
+                <p>Email:<a href="jyotikukreti739@gmail.com" class="link">jyotikukreti739@gmail.com</a></p> 
+                <p>Mobile no: 8448xxxx18</p>
+
+    </body>
+</html>
